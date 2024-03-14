@@ -2,7 +2,7 @@
 
 Welcome to the Web Calculator, a simple calculator programmed by Sachin Kumar using HTML, CSS, and JavaScript.
 
-## Web Calculator Preview
+## Preview
 
 <img width="508" alt="Screenshot 2024-03-15 at 00 28 41" src="https://github.com/sachin7070/Web-calculator/assets/94534696/63a26324-cf5d-466f-b000-59be49351ca9">
 
