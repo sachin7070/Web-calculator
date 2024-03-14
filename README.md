@@ -23,7 +23,7 @@ This web calculator provides basic arithmetic operations such as addition, subtr
 
 To use the web calculator, follow these steps:
 
-1. Open the `index.html` file in your web browser.
+1. Open the `cal.html` file in your web browser.
 2. You'll see the calculator interface with buttons for numbers, arithmetic operations, and functions like clear and equal.
 3. Click on the numbers and operations to input your expression.
 4. Click the equal button to see the result.
