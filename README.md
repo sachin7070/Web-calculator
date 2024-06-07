@@ -19,6 +19,12 @@ This web calculator provides basic arithmetic operations such as addition, subtr
 - Multiplication
 - Division
 
+## Deployment
+
+[Check out the deployed application](https://sachin7070.github.io/Web-calculator/)
+
+  
+
 ## Usage
 
 To use the web calculator, follow these steps:
